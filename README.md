@@ -1,15 +1,16 @@
+[![Build Status](https://travis-ci.com/edpuzino/lab-27.svg?branch=master)](https://travis-ci.com/edpuzino/lab-27)
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 27
 
-### Author: Student/Group Name
+### Author: Ed Puzino
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/edpuzino/lab-27)
+* [travis](https://travis-ci.com/edpuzino/lab-27)
 * [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [front-end](https://codesandbox.io/s/mzoj8w1x4j)
 
 ### Modules
 #### `modulename.js`
